@@ -38,4 +38,8 @@ The intent of the challenge was to successfully answer the following questions:
 
 ### The county results indicate
 
-![election_analysis](election_analysis)
+![election_analysis](election_analysis.png)
+
+### Code Alterations
+
+Before altering the code, only the participants, percentages, and numbers were determined. By altering the code I was then able to create the total number of votes from the counties. The code can also be altered to achieve different variables.
